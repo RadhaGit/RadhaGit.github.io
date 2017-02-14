@@ -1,0 +1,20 @@
+body{
+	background-color:lightblue; 
+    margin-left: 200px;
+    background-image: url(../img/background.jpg);
+}
+header{
+	padding-top: -15px;
+	padding-left: 30%;
+	color:blue;
+}
+.fa-envelope,.fa-phone{
+	color:blue;
+	}
+.fa-calendar{
+	color:#FF2424;
+}
+.fa-times{
+	color:#CC0000;
+	font-size: 30px;
+}
